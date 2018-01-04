@@ -1,6 +1,7 @@
 What is Python ?
-
-`Python is a simple easy to read programming (telling a computer what to do and how to do it) language developed in the 1990s by Guido van Rossum.`
+```
+Python is a simple easy to read programming (telling a computer what to do and how to do it) language developed in the 1990s by Guido van Rossum.
+```
 
 In what areas can we use the Python Language?
 
